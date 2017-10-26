@@ -6,7 +6,7 @@ import org.springframework.stereotype.Component;
 public class HelloWorld {
 
 	public HelloWorld() {
-		System.out.println("hello world...by Nrj");
+		System.out.println("hello world...!!!");
 	}
 
 	
