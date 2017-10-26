@@ -1,0 +1,89 @@
+.b1 {
+    display: inline-block;
+    width: 95%;
+    padding-bottom: 90px;
+    float: left;
+    margin-left: 13px;
+    margin-right: 8px;
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+}
+#date {
+    margin-left: 72px;
+    font-weight: 900;
+}
+#margi {
+	margin-left: 145px;
+	border-bottom: 1px solid;
+	font-size:17px;
+	width: 122px;
+	margin-bottom: 37px;
+} 
+#margi1 {
+	margin-left: 143px;
+	text-decoration: underline;
+	font-size:17px;
+	float: right;
+	width: 50%;
+} 
+#positionn {
+	float: left;
+	width: 60%;
+}
+.divider {
+	position: absolute;
+	left: 51%;
+	top: 10%;
+	bottom: 25%;
+	border-left: 1px solid black
+}
+
+#positionn1 {
+	float: right;
+	width: 44%;
+	margin-right: -48px;
+	margin-top: -416px;
+}
+#margin3 {
+	margin-left:50px;
+}
+input, select {
+	margin-left: 116px;
+}
+.distance {
+	margin-left: 295px;
+}
+#radio1 {
+	display: inline-block;
+}
+#radio3 {
+	display: inline-block;
+}
+#radio2{
+	display: inline-block;
+	margin-left: -113px;
+}
+label.sign::after{
+	content: "*";
+	color: red;
+}
+.adjust{
+	margin-right:-79px;
+}
+label {
+  display: inline-block;
+  width: 150px;
+  text-align: left;
+  margin-bottom: 10px;
+  margin-left: 24px;
+}​
+
+
+
+
+
+
+
+
+
