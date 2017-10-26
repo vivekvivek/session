@@ -24,6 +24,7 @@ public class Test {
 		cdPlayer.start();
 		topping.setName("golden corn");
 		System.out.println(topping.getName());
+		System.out.println("Test Done");
 
 	}
 
